@@ -3,8 +3,13 @@
 <h1 align="center">Hi 👋, I'm Florian Werner</h1>
 <h3 align="center">Application and System Manager / Deutsche Telekom</h3>
 
+- 🌱 I’m currently learning **Kubernetes Deployment**
+
+- 👨‍💻 My technician work available at [https://github.com/FlWerner/TechnikerArbeit](https://github.com/FlWerner/TechnikerArbeit)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/florian-werner-4b7723271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian-werner-4b7723271" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
