@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/FlWerner/FlWerner/assets/76451227/1550749b-a1d9-4cde-89a3-1388b713071c)
+
+
 ### Hi there 👋
 
 <!--
