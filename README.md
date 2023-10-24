@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes Deployment**
 
-- 👨‍💻 My technician work available at [https://github.com/FlWerner/TechnikerArbeit](https://github.com/FlWerner/TechnikerArbeit)
+- 👨‍💻 My technician work available at [https://github.com/FlWerner/TechnikerArbeit](https://github.com/FlWerner/TechnikerArbeit-AbgabeVersion)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
